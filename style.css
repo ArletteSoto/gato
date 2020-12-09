@@ -1,0 +1,21 @@
+p {
+    color: #66FF66;
+    font:"Arial";
+      
+  }
+  
+  h1 {
+    font-style:italic;
+    color: #900036
+    
+      
+  }
+  
+  body { 
+    background-color:#EEFFAC
+  }
+  
+  .destacado{
+    font-style:italic;
+    color:#1F0A29
+  }
